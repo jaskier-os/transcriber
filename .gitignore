@@ -1,0 +1,31 @@
+# Env
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Models fetched at setup (see fetch_models.sh)
+silero_vad.onnx
+
+# Speaker profiles (user data; keep dir, ignore contents)
+profiles/*.npy
+
+# Build / tooling
+dist/
+build/
+.idea/
+.vscode/
+*.log
+.coverage
+coverage/
+.DS_Store

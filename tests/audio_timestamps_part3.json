@@ -1,0 +1,1726 @@
+{
+  "sentences": [
+    {
+      "start": 2.45,
+      "end": 22.55,
+      "text": "Well, hello and welcome to this month's masterclass video lesson. I'm excited because we're doing something a little bit different since I'm on vacation. I was lucky enough to get, I guess I kind of may push my way a little bit. I apologize, but I'm always so excited when I get to interview interesting people doing interesting things."
+    },
+    {
+      "start": 22.55,
+      "end": 34.83,
+      "text": "So this is Kyle, a new friend of mine. Actually, he happened to stay with my mom for quite a while. So he has an interesting job and I'll let him introduce himself and then we can learn more about what he does."
+    },
+    {
+      "start": 35.31,
+      "end": 48.83,
+      "text": "My name's Kyle and just moved here to Bend from Boulder, Colorado about eight months ago and just found this job on Craigslist, which it was really easy."
+    },
+    {
+      "start": 48.97,
+      "end": 52.53,
+      "text": "Came for an interview, met the guy, saw the two shots."
+    },
+    {
+      "start": 52.55,
+      "end": 57.03,
+      "text": "And I was like, all right, let's give this a try and see how it goes."
+    },
+    {
+      "start": 57.13,
+      "end": 59.45,
+      "text": "And it's worked out really well."
+    },
+    {
+      "start": 60.27,
+      "end": 67.21,
+      "text": "So I, you know, from the beginning, the whole allure for me was all the different things that I could learn."
+    },
+    {
+      "start": 67.57,
+      "end": 72.25,
+      "text": "Because there's just so many trades that go into working on a trailer."
+    },
+    {
+      "start": 72.57,
+      "end": 78.23,
+      "text": "It's kind of like working on a house. You have plumbing, electrical, insulation, you know."
+    },
+    {
+      "start": 78.37,
+      "end": 79.39,
+      "text": "Yeah, it's like a mini house."
+    },
+    {
+      "start": 79.61,
+      "end": 82.19,
+      "text": "Yeah, exactly. So everything that you have to do on a house."
+    },
+    {
+      "start": 82.19,
+      "end": 83.01,
+      "text": "You do on a trailer."
+    },
+    {
+      "start": 83.19,
+      "end": 96.39,
+      "text": "And I've since, you know, beginning gotten more specialized in just doing cabinetry, building them, installing them, everything, especially with the Airstreams."
+    },
+    {
+      "start": 96.39,
+      "end": 100.35,
+      "text": "They're circular. And so it's really difficult."
+    },
+    {
+      "start": 100.57,
+      "end": 102.35,
+      "text": "You got to do a lot of scribing."
+    },
+    {
+      "start": 102.49,
+      "end": 104.19,
+      "text": "What's that? What's scribing?"
+    },
+    {
+      "start": 104.21,
+      "end": 112.09,
+      "text": "Scribing is like where you start with a rough piece of material and then you start getting it kind of closer to the."
+    },
+    {
+      "start": 112.19,
+      "end": 112.87,
+      "text": "Actual curvature."
+    },
+    {
+      "start": 113.07,
+      "end": 113.83,
+      "text": "Oh, OK."
+    },
+    {
+      "start": 113.95,
+      "end": 114.15,
+      "text": "Huh."
+    },
+    {
+      "start": 114.97,
+      "end": 115.75,
+      "text": "Because you can't."
+    },
+    {
+      "start": 115.75,
+      "end": 118.59,
+      "text": "Because there's so many curved edges on an Airstream trailer."
+    },
+    {
+      "start": 118.75,
+      "end": 119.37,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 119.63,
+      "end": 119.67,
+      "text": "OK."
+    }
+  ],
+  "words": [
+    {
+      "start": 2.45,
+      "end": 2.87,
+      "word": "Well,"
+    },
+    {
+      "start": 2.97,
+      "end": 3.13,
+      "word": "hello"
+    },
+    {
+      "start": 3.13,
+      "end": 3.41,
+      "word": "and"
+    },
+    {
+      "start": 3.41,
+      "end": 3.83,
+      "word": "welcome"
+    },
+    {
+      "start": 3.83,
+      "end": 4.11,
+      "word": "to"
+    },
+    {
+      "start": 4.11,
+      "end": 4.29,
+      "word": "this"
+    },
+    {
+      "start": 4.29,
+      "end": 4.71,
+      "word": "month's"
+    },
+    {
+      "start": 4.71,
+      "end": 5.33,
+      "word": "masterclass"
+    },
+    {
+      "start": 5.33,
+      "end": 5.83,
+      "word": "video"
+    },
+    {
+      "start": 5.83,
+      "end": 6.35,
+      "word": "lesson."
+    },
+    {
+      "start": 6.63,
+      "end": 6.93,
+      "word": "I'm"
+    },
+    {
+      "start": 6.93,
+      "end": 7.25,
+      "word": "excited"
+    },
+    {
+      "start": 7.25,
+      "end": 7.63,
+      "word": "because"
+    },
+    {
+      "start": 7.63,
+      "end": 7.91,
+      "word": "we're"
+    },
+    {
+      "start": 7.91,
+      "end": 8.09,
+      "word": "doing"
+    },
+    {
+      "start": 8.09,
+      "end": 8.47,
+      "word": "something"
+    },
+    {
+      "start": 8.47,
+      "end": 8.71,
+      "word": "a"
+    },
+    {
+      "start": 8.71,
+      "end": 8.83,
+      "word": "little"
+    },
+    {
+      "start": 8.83,
+      "end": 9.03,
+      "word": "bit"
+    },
+    {
+      "start": 9.03,
+      "end": 9.47,
+      "word": "different"
+    },
+    {
+      "start": 9.47,
+      "end": 10.25,
+      "word": "since"
+    },
+    {
+      "start": 10.25,
+      "end": 10.49,
+      "word": "I'm"
+    },
+    {
+      "start": 10.49,
+      "end": 10.61,
+      "word": "on"
+    },
+    {
+      "start": 10.61,
+      "end": 11.07,
+      "word": "vacation."
+    },
+    {
+      "start": 11.45,
+      "end": 11.69,
+      "word": "I"
+    },
+    {
+      "start": 11.69,
+      "end": 12.03,
+      "word": "was"
+    },
+    {
+      "start": 12.03,
+      "end": 12.91,
+      "word": "lucky"
+    },
+    {
+      "start": 12.91,
+      "end": 13.17,
+      "word": "enough"
+    },
+    {
+      "start": 13.17,
+      "end": 13.37,
+      "word": "to"
+    },
+    {
+      "start": 13.37,
+      "end": 13.59,
+      "word": "get,"
+    },
+    {
+      "start": 13.73,
+      "end": 14.53,
+      "word": "I"
+    },
+    {
+      "start": 14.53,
+      "end": 14.81,
+      "word": "guess"
+    },
+    {
+      "start": 14.81,
+      "end": 14.95,
+      "word": "I"
+    },
+    {
+      "start": 14.95,
+      "end": 15.09,
+      "word": "kind"
+    },
+    {
+      "start": 15.09,
+      "end": 15.21,
+      "word": "of"
+    },
+    {
+      "start": 15.21,
+      "end": 15.37,
+      "word": "may"
+    },
+    {
+      "start": 15.37,
+      "end": 15.59,
+      "word": "push"
+    },
+    {
+      "start": 15.59,
+      "end": 15.89,
+      "word": "my"
+    },
+    {
+      "start": 15.89,
+      "end": 16.15,
+      "word": "way"
+    },
+    {
+      "start": 16.15,
+      "end": 16.27,
+      "word": "a"
+    },
+    {
+      "start": 16.27,
+      "end": 16.37,
+      "word": "little"
+    },
+    {
+      "start": 16.37,
+      "end": 16.59,
+      "word": "bit."
+    },
+    {
+      "start": 16.69,
+      "end": 17.07,
+      "word": "I"
+    },
+    {
+      "start": 17.07,
+      "end": 17.53,
+      "word": "apologize,"
+    },
+    {
+      "start": 17.61,
+      "end": 17.93,
+      "word": "but"
+    },
+    {
+      "start": 17.93,
+      "end": 18.09,
+      "word": "I'm"
+    },
+    {
+      "start": 18.09,
+      "end": 18.25,
+      "word": "always"
+    },
+    {
+      "start": 18.25,
+      "end": 18.43,
+      "word": "so"
+    },
+    {
+      "start": 18.43,
+      "end": 18.77,
+      "word": "excited"
+    },
+    {
+      "start": 18.77,
+      "end": 19.01,
+      "word": "when"
+    },
+    {
+      "start": 19.01,
+      "end": 19.11,
+      "word": "I"
+    },
+    {
+      "start": 19.11,
+      "end": 19.35,
+      "word": "get"
+    },
+    {
+      "start": 19.35,
+      "end": 19.61,
+      "word": "to"
+    },
+    {
+      "start": 19.61,
+      "end": 20.13,
+      "word": "interview"
+    },
+    {
+      "start": 20.13,
+      "end": 20.63,
+      "word": "interesting"
+    },
+    {
+      "start": 20.63,
+      "end": 21.09,
+      "word": "people"
+    },
+    {
+      "start": 21.09,
+      "end": 21.45,
+      "word": "doing"
+    },
+    {
+      "start": 21.45,
+      "end": 21.85,
+      "word": "interesting"
+    },
+    {
+      "start": 21.85,
+      "end": 22.55,
+      "word": "things."
+    },
+    {
+      "start": 22.55,
+      "end": 22.75,
+      "word": "So"
+    },
+    {
+      "start": 22.75,
+      "end": 22.95,
+      "word": "this"
+    },
+    {
+      "start": 22.95,
+      "end": 23.11,
+      "word": "is"
+    },
+    {
+      "start": 23.11,
+      "end": 23.45,
+      "word": "Kyle,"
+    },
+    {
+      "start": 23.67,
+      "end": 24.39,
+      "word": "a"
+    },
+    {
+      "start": 24.39,
+      "end": 24.87,
+      "word": "new"
+    },
+    {
+      "start": 24.87,
+      "end": 25.13,
+      "word": "friend"
+    },
+    {
+      "start": 25.13,
+      "end": 25.25,
+      "word": "of"
+    },
+    {
+      "start": 25.25,
+      "end": 25.49,
+      "word": "mine."
+    },
+    {
+      "start": 25.55,
+      "end": 25.89,
+      "word": "Actually,"
+    },
+    {
+      "start": 25.89,
+      "end": 26.03,
+      "word": "he"
+    },
+    {
+      "start": 26.03,
+      "end": 26.25,
+      "word": "happened"
+    },
+    {
+      "start": 26.25,
+      "end": 26.41,
+      "word": "to"
+    },
+    {
+      "start": 26.41,
+      "end": 26.69,
+      "word": "stay"
+    },
+    {
+      "start": 26.69,
+      "end": 27.07,
+      "word": "with"
+    },
+    {
+      "start": 27.07,
+      "end": 27.69,
+      "word": "my"
+    },
+    {
+      "start": 27.69,
+      "end": 28.21,
+      "word": "mom"
+    },
+    {
+      "start": 28.21,
+      "end": 28.71,
+      "word": "for"
+    },
+    {
+      "start": 28.71,
+      "end": 29.19,
+      "word": "quite"
+    },
+    {
+      "start": 29.19,
+      "end": 29.31,
+      "word": "a"
+    },
+    {
+      "start": 29.31,
+      "end": 29.51,
+      "word": "while."
+    },
+    {
+      "start": 29.65,
+      "end": 29.83,
+      "word": "So"
+    },
+    {
+      "start": 29.83,
+      "end": 29.95,
+      "word": "he"
+    },
+    {
+      "start": 29.95,
+      "end": 30.15,
+      "word": "has"
+    },
+    {
+      "start": 30.15,
+      "end": 30.27,
+      "word": "an"
+    },
+    {
+      "start": 30.27,
+      "end": 30.49,
+      "word": "interesting"
+    },
+    {
+      "start": 30.49,
+      "end": 30.89,
+      "word": "job"
+    },
+    {
+      "start": 30.89,
+      "end": 31.09,
+      "word": "and"
+    },
+    {
+      "start": 31.09,
+      "end": 31.21,
+      "word": "I'll"
+    },
+    {
+      "start": 31.21,
+      "end": 31.33,
+      "word": "let"
+    },
+    {
+      "start": 31.33,
+      "end": 31.51,
+      "word": "him"
+    },
+    {
+      "start": 31.51,
+      "end": 32.27,
+      "word": "introduce"
+    },
+    {
+      "start": 32.27,
+      "end": 32.71,
+      "word": "himself"
+    },
+    {
+      "start": 32.71,
+      "end": 33.07,
+      "word": "and"
+    },
+    {
+      "start": 33.07,
+      "end": 33.19,
+      "word": "then"
+    },
+    {
+      "start": 33.19,
+      "end": 33.31,
+      "word": "we"
+    },
+    {
+      "start": 33.31,
+      "end": 33.51,
+      "word": "can"
+    },
+    {
+      "start": 33.51,
+      "end": 34.01,
+      "word": "learn"
+    },
+    {
+      "start": 34.01,
+      "end": 34.17,
+      "word": "more"
+    },
+    {
+      "start": 34.17,
+      "end": 34.35,
+      "word": "about"
+    },
+    {
+      "start": 34.35,
+      "end": 34.59,
+      "word": "what"
+    },
+    {
+      "start": 34.59,
+      "end": 34.73,
+      "word": "he"
+    },
+    {
+      "start": 34.73,
+      "end": 34.83,
+      "word": "does."
+    },
+    {
+      "start": 35.31,
+      "end": 35.83,
+      "word": "My"
+    },
+    {
+      "start": 35.83,
+      "end": 36.07,
+      "word": "name's"
+    },
+    {
+      "start": 36.07,
+      "end": 36.35,
+      "word": "Kyle"
+    },
+    {
+      "start": 36.35,
+      "end": 36.91,
+      "word": "and"
+    },
+    {
+      "start": 36.91,
+      "end": 37.65,
+      "word": "just"
+    },
+    {
+      "start": 37.65,
+      "end": 38.05,
+      "word": "moved"
+    },
+    {
+      "start": 38.05,
+      "end": 38.69,
+      "word": "here"
+    },
+    {
+      "start": 38.69,
+      "end": 39.15,
+      "word": "to"
+    },
+    {
+      "start": 39.15,
+      "end": 39.45,
+      "word": "Bend"
+    },
+    {
+      "start": 39.45,
+      "end": 40.03,
+      "word": "from"
+    },
+    {
+      "start": 40.03,
+      "end": 40.63,
+      "word": "Boulder,"
+    },
+    {
+      "start": 40.73,
+      "end": 41.07,
+      "word": "Colorado"
+    },
+    {
+      "start": 41.07,
+      "end": 41.93,
+      "word": "about"
+    },
+    {
+      "start": 41.93,
+      "end": 43.11,
+      "word": "eight"
+    },
+    {
+      "start": 43.11,
+      "end": 43.35,
+      "word": "months"
+    },
+    {
+      "start": 43.35,
+      "end": 43.65,
+      "word": "ago"
+    },
+    {
+      "start": 43.65,
+      "end": 44.63,
+      "word": "and"
+    },
+    {
+      "start": 44.63,
+      "end": 45.17,
+      "word": "just"
+    },
+    {
+      "start": 45.17,
+      "end": 45.43,
+      "word": "found"
+    },
+    {
+      "start": 45.43,
+      "end": 45.67,
+      "word": "this"
+    },
+    {
+      "start": 45.67,
+      "end": 46.05,
+      "word": "job"
+    },
+    {
+      "start": 46.05,
+      "end": 46.49,
+      "word": "on"
+    },
+    {
+      "start": 46.49,
+      "end": 47.03,
+      "word": "Craigslist,"
+    },
+    {
+      "start": 47.15,
+      "end": 47.45,
+      "word": "which"
+    },
+    {
+      "start": 47.45,
+      "end": 48.07,
+      "word": "it"
+    },
+    {
+      "start": 48.07,
+      "end": 48.21,
+      "word": "was"
+    },
+    {
+      "start": 48.21,
+      "end": 48.45,
+      "word": "really"
+    },
+    {
+      "start": 48.45,
+      "end": 48.83,
+      "word": "easy."
+    },
+    {
+      "start": 48.97,
+      "end": 49.49,
+      "word": "Came"
+    },
+    {
+      "start": 49.49,
+      "end": 49.75,
+      "word": "for"
+    },
+    {
+      "start": 49.75,
+      "end": 49.87,
+      "word": "an"
+    },
+    {
+      "start": 49.87,
+      "end": 50.11,
+      "word": "interview,"
+    },
+    {
+      "start": 50.41,
+      "end": 50.65,
+      "word": "met"
+    },
+    {
+      "start": 50.65,
+      "end": 50.85,
+      "word": "the"
+    },
+    {
+      "start": 50.85,
+      "end": 51.11,
+      "word": "guy,"
+    },
+    {
+      "start": 51.37,
+      "end": 51.91,
+      "word": "saw"
+    },
+    {
+      "start": 51.91,
+      "end": 52.09,
+      "word": "the"
+    },
+    {
+      "start": 52.09,
+      "end": 52.25,
+      "word": "two"
+    },
+    {
+      "start": 52.25,
+      "end": 52.53,
+      "word": "shots."
+    },
+    {
+      "start": 52.55,
+      "end": 52.85,
+      "word": "And"
+    },
+    {
+      "start": 52.85,
+      "end": 53.51,
+      "word": "I"
+    },
+    {
+      "start": 53.51,
+      "end": 53.75,
+      "word": "was"
+    },
+    {
+      "start": 53.75,
+      "end": 54.01,
+      "word": "like,"
+    },
+    {
+      "start": 54.07,
+      "end": 54.25,
+      "word": "all"
+    },
+    {
+      "start": 54.25,
+      "end": 54.47,
+      "word": "right,"
+    },
+    {
+      "start": 54.53,
+      "end": 54.85,
+      "word": "let's"
+    },
+    {
+      "start": 54.85,
+      "end": 55.01,
+      "word": "give"
+    },
+    {
+      "start": 55.01,
+      "end": 55.23,
+      "word": "this"
+    },
+    {
+      "start": 55.23,
+      "end": 55.35,
+      "word": "a"
+    },
+    {
+      "start": 55.35,
+      "end": 55.57,
+      "word": "try"
+    },
+    {
+      "start": 55.57,
+      "end": 55.83,
+      "word": "and"
+    },
+    {
+      "start": 55.83,
+      "end": 56.21,
+      "word": "see"
+    },
+    {
+      "start": 56.21,
+      "end": 56.63,
+      "word": "how"
+    },
+    {
+      "start": 56.63,
+      "end": 56.77,
+      "word": "it"
+    },
+    {
+      "start": 56.77,
+      "end": 57.03,
+      "word": "goes."
+    },
+    {
+      "start": 57.13,
+      "end": 57.55,
+      "word": "And"
+    },
+    {
+      "start": 57.55,
+      "end": 58.55,
+      "word": "it's"
+    },
+    {
+      "start": 58.55,
+      "end": 58.71,
+      "word": "worked"
+    },
+    {
+      "start": 58.71,
+      "end": 58.91,
+      "word": "out"
+    },
+    {
+      "start": 58.91,
+      "end": 59.13,
+      "word": "really"
+    },
+    {
+      "start": 59.13,
+      "end": 59.45,
+      "word": "well."
+    },
+    {
+      "start": 60.27,
+      "end": 60.71,
+      "word": "So"
+    },
+    {
+      "start": 60.71,
+      "end": 60.91,
+      "word": "I,"
+    },
+    {
+      "start": 61.03,
+      "end": 61.67,
+      "word": "you"
+    },
+    {
+      "start": 61.67,
+      "end": 61.83,
+      "word": "know,"
+    },
+    {
+      "start": 61.83,
+      "end": 61.97,
+      "word": "from"
+    },
+    {
+      "start": 61.97,
+      "end": 62.09,
+      "word": "the"
+    },
+    {
+      "start": 62.09,
+      "end": 62.51,
+      "word": "beginning,"
+    },
+    {
+      "start": 62.71,
+      "end": 63.15,
+      "word": "the"
+    },
+    {
+      "start": 63.15,
+      "end": 63.65,
+      "word": "whole"
+    },
+    {
+      "start": 63.65,
+      "end": 64.41,
+      "word": "allure"
+    },
+    {
+      "start": 64.41,
+      "end": 64.65,
+      "word": "for"
+    },
+    {
+      "start": 64.65,
+      "end": 64.89,
+      "word": "me"
+    },
+    {
+      "start": 64.89,
+      "end": 65.27,
+      "word": "was"
+    },
+    {
+      "start": 65.27,
+      "end": 65.83,
+      "word": "all"
+    },
+    {
+      "start": 65.83,
+      "end": 65.95,
+      "word": "the"
+    },
+    {
+      "start": 65.95,
+      "end": 66.15,
+      "word": "different"
+    },
+    {
+      "start": 66.15,
+      "end": 66.43,
+      "word": "things"
+    },
+    {
+      "start": 66.43,
+      "end": 66.61,
+      "word": "that"
+    },
+    {
+      "start": 66.61,
+      "end": 66.71,
+      "word": "I"
+    },
+    {
+      "start": 66.71,
+      "end": 66.83,
+      "word": "could"
+    },
+    {
+      "start": 66.83,
+      "end": 67.21,
+      "word": "learn."
+    },
+    {
+      "start": 67.57,
+      "end": 68.01,
+      "word": "Because"
+    },
+    {
+      "start": 68.01,
+      "end": 69.21,
+      "word": "there's"
+    },
+    {
+      "start": 69.21,
+      "end": 69.35,
+      "word": "just"
+    },
+    {
+      "start": 69.35,
+      "end": 69.53,
+      "word": "so"
+    },
+    {
+      "start": 69.53,
+      "end": 69.71,
+      "word": "many"
+    },
+    {
+      "start": 69.71,
+      "end": 70.09,
+      "word": "trades"
+    },
+    {
+      "start": 70.09,
+      "end": 70.85,
+      "word": "that"
+    },
+    {
+      "start": 70.85,
+      "end": 71.07,
+      "word": "go"
+    },
+    {
+      "start": 71.07,
+      "end": 71.33,
+      "word": "into"
+    },
+    {
+      "start": 71.33,
+      "end": 71.63,
+      "word": "working"
+    },
+    {
+      "start": 71.63,
+      "end": 71.87,
+      "word": "on"
+    },
+    {
+      "start": 71.87,
+      "end": 71.97,
+      "word": "a"
+    },
+    {
+      "start": 71.97,
+      "end": 72.25,
+      "word": "trailer."
+    },
+    {
+      "start": 72.57,
+      "end": 73.01,
+      "word": "It's"
+    },
+    {
+      "start": 73.01,
+      "end": 73.17,
+      "word": "kind"
+    },
+    {
+      "start": 73.17,
+      "end": 73.33,
+      "word": "of"
+    },
+    {
+      "start": 73.33,
+      "end": 73.47,
+      "word": "like"
+    },
+    {
+      "start": 73.47,
+      "end": 73.91,
+      "word": "working"
+    },
+    {
+      "start": 73.91,
+      "end": 74.09,
+      "word": "on"
+    },
+    {
+      "start": 74.09,
+      "end": 74.15,
+      "word": "a"
+    },
+    {
+      "start": 74.15,
+      "end": 74.45,
+      "word": "house."
+    },
+    {
+      "start": 74.49,
+      "end": 74.65,
+      "word": "You"
+    },
+    {
+      "start": 74.65,
+      "end": 74.75,
+      "word": "have"
+    },
+    {
+      "start": 74.75,
+      "end": 75.09,
+      "word": "plumbing,"
+    },
+    {
+      "start": 75.25,
+      "end": 75.55,
+      "word": "electrical,"
+    },
+    {
+      "start": 76.07,
+      "end": 77.05,
+      "word": "insulation,"
+    },
+    {
+      "start": 77.53,
+      "end": 78.01,
+      "word": "you"
+    },
+    {
+      "start": 78.01,
+      "end": 78.23,
+      "word": "know."
+    },
+    {
+      "start": 78.37,
+      "end": 78.63,
+      "word": "Yeah,"
+    },
+    {
+      "start": 78.67,
+      "end": 78.77,
+      "word": "it's"
+    },
+    {
+      "start": 78.77,
+      "end": 78.87,
+      "word": "like"
+    },
+    {
+      "start": 78.87,
+      "end": 78.99,
+      "word": "a"
+    },
+    {
+      "start": 78.99,
+      "end": 79.13,
+      "word": "mini"
+    },
+    {
+      "start": 79.13,
+      "end": 79.39,
+      "word": "house."
+    },
+    {
+      "start": 79.61,
+      "end": 79.79,
+      "word": "Yeah,"
+    },
+    {
+      "start": 79.83,
+      "end": 80.07,
+      "word": "exactly."
+    },
+    {
+      "start": 80.17,
+      "end": 80.55,
+      "word": "So"
+    },
+    {
+      "start": 80.55,
+      "end": 80.81,
+      "word": "everything"
+    },
+    {
+      "start": 80.81,
+      "end": 81.03,
+      "word": "that"
+    },
+    {
+      "start": 81.03,
+      "end": 81.15,
+      "word": "you"
+    },
+    {
+      "start": 81.15,
+      "end": 81.21,
+      "word": "have"
+    },
+    {
+      "start": 81.21,
+      "end": 81.31,
+      "word": "to"
+    },
+    {
+      "start": 81.31,
+      "end": 81.47,
+      "word": "do"
+    },
+    {
+      "start": 81.47,
+      "end": 81.63,
+      "word": "on"
+    },
+    {
+      "start": 81.63,
+      "end": 81.93,
+      "word": "a"
+    },
+    {
+      "start": 81.93,
+      "end": 82.19,
+      "word": "house."
+    },
+    {
+      "start": 82.19,
+      "end": 82.35,
+      "word": "You"
+    },
+    {
+      "start": 82.35,
+      "end": 82.47,
+      "word": "do"
+    },
+    {
+      "start": 82.47,
+      "end": 82.61,
+      "word": "on"
+    },
+    {
+      "start": 82.61,
+      "end": 82.71,
+      "word": "a"
+    },
+    {
+      "start": 82.71,
+      "end": 83.01,
+      "word": "trailer."
+    },
+    {
+      "start": 83.19,
+      "end": 83.79,
+      "word": "And"
+    },
+    {
+      "start": 83.79,
+      "end": 84.97,
+      "word": "I've"
+    },
+    {
+      "start": 84.97,
+      "end": 85.47,
+      "word": "since,"
+    },
+    {
+      "start": 85.81,
+      "end": 86.21,
+      "word": "you"
+    },
+    {
+      "start": 86.21,
+      "end": 86.41,
+      "word": "know,"
+    },
+    {
+      "start": 86.43,
+      "end": 86.73,
+      "word": "beginning"
+    },
+    {
+      "start": 86.73,
+      "end": 87.59,
+      "word": "gotten"
+    },
+    {
+      "start": 87.59,
+      "end": 87.81,
+      "word": "more"
+    },
+    {
+      "start": 87.81,
+      "end": 88.31,
+      "word": "specialized"
+    },
+    {
+      "start": 88.31,
+      "end": 88.71,
+      "word": "in"
+    },
+    {
+      "start": 88.71,
+      "end": 88.87,
+      "word": "just"
+    },
+    {
+      "start": 88.87,
+      "end": 89.15,
+      "word": "doing"
+    },
+    {
+      "start": 89.15,
+      "end": 89.71,
+      "word": "cabinetry,"
+    },
+    {
+      "start": 89.91,
+      "end": 90.97,
+      "word": "building"
+    },
+    {
+      "start": 90.97,
+      "end": 91.35,
+      "word": "them,"
+    },
+    {
+      "start": 91.57,
+      "end": 92.47,
+      "word": "installing"
+    },
+    {
+      "start": 92.47,
+      "end": 92.79,
+      "word": "them,"
+    },
+    {
+      "start": 93.03,
+      "end": 94.19,
+      "word": "everything,"
+    },
+    {
+      "start": 94.41,
+      "end": 95.13,
+      "word": "especially"
+    },
+    {
+      "start": 95.13,
+      "end": 95.41,
+      "word": "with"
+    },
+    {
+      "start": 95.41,
+      "end": 95.53,
+      "word": "the"
+    },
+    {
+      "start": 95.53,
+      "end": 96.39,
+      "word": "Airstreams."
+    },
+    {
+      "start": 96.39,
+      "end": 96.69,
+      "word": "They're"
+    },
+    {
+      "start": 96.69,
+      "end": 97.19,
+      "word": "circular."
+    },
+    {
+      "start": 97.37,
+      "end": 97.83,
+      "word": "And"
+    },
+    {
+      "start": 97.83,
+      "end": 98.27,
+      "word": "so"
+    },
+    {
+      "start": 98.27,
+      "end": 99.33,
+      "word": "it's"
+    },
+    {
+      "start": 99.33,
+      "end": 99.89,
+      "word": "really"
+    },
+    {
+      "start": 99.89,
+      "end": 100.35,
+      "word": "difficult."
+    },
+    {
+      "start": 100.57,
+      "end": 100.73,
+      "word": "You"
+    },
+    {
+      "start": 100.73,
+      "end": 100.87,
+      "word": "got"
+    },
+    {
+      "start": 100.87,
+      "end": 100.99,
+      "word": "to"
+    },
+    {
+      "start": 100.99,
+      "end": 101.17,
+      "word": "do"
+    },
+    {
+      "start": 101.17,
+      "end": 101.33,
+      "word": "a"
+    },
+    {
+      "start": 101.33,
+      "end": 101.49,
+      "word": "lot"
+    },
+    {
+      "start": 101.49,
+      "end": 101.61,
+      "word": "of"
+    },
+    {
+      "start": 101.61,
+      "end": 102.35,
+      "word": "scribing."
+    },
+    {
+      "start": 102.49,
+      "end": 103.09,
+      "word": "What's"
+    },
+    {
+      "start": 103.09,
+      "end": 103.19,
+      "word": "that?"
+    },
+    {
+      "start": 103.37,
+      "end": 103.65,
+      "word": "What's"
+    },
+    {
+      "start": 103.65,
+      "end": 104.19,
+      "word": "scribing?"
+    },
+    {
+      "start": 104.21,
+      "end": 104.61,
+      "word": "Scribing"
+    },
+    {
+      "start": 104.61,
+      "end": 104.99,
+      "word": "is"
+    },
+    {
+      "start": 104.99,
+      "end": 105.15,
+      "word": "like"
+    },
+    {
+      "start": 105.15,
+      "end": 105.47,
+      "word": "where"
+    },
+    {
+      "start": 105.47,
+      "end": 105.83,
+      "word": "you"
+    },
+    {
+      "start": 105.83,
+      "end": 106.07,
+      "word": "start"
+    },
+    {
+      "start": 106.07,
+      "end": 106.35,
+      "word": "with"
+    },
+    {
+      "start": 106.35,
+      "end": 106.45,
+      "word": "a"
+    },
+    {
+      "start": 106.45,
+      "end": 106.71,
+      "word": "rough"
+    },
+    {
+      "start": 106.71,
+      "end": 107.03,
+      "word": "piece"
+    },
+    {
+      "start": 107.03,
+      "end": 107.47,
+      "word": "of"
+    },
+    {
+      "start": 107.47,
+      "end": 107.91,
+      "word": "material"
+    },
+    {
+      "start": 107.91,
+      "end": 108.57,
+      "word": "and"
+    },
+    {
+      "start": 108.57,
+      "end": 108.83,
+      "word": "then"
+    },
+    {
+      "start": 108.83,
+      "end": 109.41,
+      "word": "you"
+    },
+    {
+      "start": 109.41,
+      "end": 109.67,
+      "word": "start"
+    },
+    {
+      "start": 109.67,
+      "end": 109.99,
+      "word": "getting"
+    },
+    {
+      "start": 109.99,
+      "end": 110.33,
+      "word": "it"
+    },
+    {
+      "start": 110.33,
+      "end": 110.63,
+      "word": "kind"
+    },
+    {
+      "start": 110.63,
+      "end": 110.75,
+      "word": "of"
+    },
+    {
+      "start": 110.75,
+      "end": 111.15,
+      "word": "closer"
+    },
+    {
+      "start": 111.15,
+      "end": 111.61,
+      "word": "to"
+    },
+    {
+      "start": 111.61,
+      "end": 112.09,
+      "word": "the."
+    },
+    {
+      "start": 112.19,
+      "end": 112.47,
+      "word": "Actual"
+    },
+    {
+      "start": 112.47,
+      "end": 112.87,
+      "word": "curvature."
+    },
+    {
+      "start": 113.07,
+      "end": 113.49,
+      "word": "Oh,"
+    },
+    {
+      "start": 113.49,
+      "end": 113.83,
+      "word": "OK."
+    },
+    {
+      "start": 113.95,
+      "end": 114.15,
+      "word": "Huh."
+    },
+    {
+      "start": 114.97,
+      "end": 115.39,
+      "word": "Because"
+    },
+    {
+      "start": 115.39,
+      "end": 115.55,
+      "word": "you"
+    },
+    {
+      "start": 115.55,
+      "end": 115.75,
+      "word": "can't."
+    },
+    {
+      "start": 115.75,
+      "end": 115.97,
+      "word": "Because"
+    },
+    {
+      "start": 115.97,
+      "end": 116.29,
+      "word": "there's"
+    },
+    {
+      "start": 116.29,
+      "end": 116.33,
+      "word": "so"
+    },
+    {
+      "start": 116.33,
+      "end": 116.51,
+      "word": "many"
+    },
+    {
+      "start": 116.51,
+      "end": 116.79,
+      "word": "curved"
+    },
+    {
+      "start": 116.79,
+      "end": 117.09,
+      "word": "edges"
+    },
+    {
+      "start": 117.09,
+      "end": 117.41,
+      "word": "on"
+    },
+    {
+      "start": 117.41,
+      "end": 117.51,
+      "word": "an"
+    },
+    {
+      "start": 117.51,
+      "end": 118.23,
+      "word": "Airstream"
+    },
+    {
+      "start": 118.23,
+      "end": 118.59,
+      "word": "trailer."
+    },
+    {
+      "start": 118.75,
+      "end": 118.95,
+      "word": "Yeah,"
+    },
+    {
+      "start": 119.03,
+      "end": 119.37,
+      "word": "exactly."
+    },
+    {
+      "start": 119.63,
+      "end": 119.67,
+      "word": "OK."
+    }
+  ]
+}

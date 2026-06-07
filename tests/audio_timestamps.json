@@ -1,0 +1,436 @@
+{
+  "sentences": [
+    {
+      "start": 2.45,
+      "end": 7.23,
+      "text": "well hello and welcome to this month's master class video lesson I'm excited"
+    },
+    {
+      "start": 7.23,
+      "end": 11.71,
+      "text": "because we're doing something a little bit different since I'm on vacation I"
+    },
+    {
+      "start": 11.71,
+      "end": 17.55,
+      "text": "was lucky enough to get I guess I kind of may push my way in there I apologize"
+    },
+    {
+      "start": 17.55,
+      "end": 21.51,
+      "text": "but I'm always so excited when I get to interview interesting people doing"
+    },
+    {
+      "start": 21.51,
+      "end": 26.43,
+      "text": "interesting things so this is Kyle a new friend of mine actually he happened to"
+    },
+    {
+      "start": 26.43,
+      "end": 29.49,
+      "text": "stay with my mom for quite a while"
+    }
+  ],
+  "words": [
+    {
+      "start": 2.45,
+      "end": 2.91,
+      "word": "well"
+    },
+    {
+      "start": 2.91,
+      "end": 3.15,
+      "word": "hello"
+    },
+    {
+      "start": 3.15,
+      "end": 3.41,
+      "word": "and"
+    },
+    {
+      "start": 3.41,
+      "end": 3.85,
+      "word": "welcome"
+    },
+    {
+      "start": 3.85,
+      "end": 4.09,
+      "word": "to"
+    },
+    {
+      "start": 4.09,
+      "end": 4.25,
+      "word": "this"
+    },
+    {
+      "start": 4.25,
+      "end": 4.71,
+      "word": "month's"
+    },
+    {
+      "start": 4.71,
+      "end": 4.91,
+      "word": "master"
+    },
+    {
+      "start": 4.91,
+      "end": 5.29,
+      "word": "class"
+    },
+    {
+      "start": 5.29,
+      "end": 5.83,
+      "word": "video"
+    },
+    {
+      "start": 5.83,
+      "end": 6.37,
+      "word": "lesson"
+    },
+    {
+      "start": 6.37,
+      "end": 6.93,
+      "word": "I'm"
+    },
+    {
+      "start": 6.93,
+      "end": 7.23,
+      "word": "excited"
+    },
+    {
+      "start": 7.23,
+      "end": 7.63,
+      "word": "because"
+    },
+    {
+      "start": 7.63,
+      "end": 7.91,
+      "word": "we're"
+    },
+    {
+      "start": 7.91,
+      "end": 8.09,
+      "word": "doing"
+    },
+    {
+      "start": 8.09,
+      "end": 8.49,
+      "word": "something"
+    },
+    {
+      "start": 8.49,
+      "end": 8.71,
+      "word": "a"
+    },
+    {
+      "start": 8.71,
+      "end": 8.83,
+      "word": "little"
+    },
+    {
+      "start": 8.83,
+      "end": 9.03,
+      "word": "bit"
+    },
+    {
+      "start": 9.03,
+      "end": 9.45,
+      "word": "different"
+    },
+    {
+      "start": 9.45,
+      "end": 10.27,
+      "word": "since"
+    },
+    {
+      "start": 10.27,
+      "end": 10.49,
+      "word": "I'm"
+    },
+    {
+      "start": 10.49,
+      "end": 10.59,
+      "word": "on"
+    },
+    {
+      "start": 10.59,
+      "end": 11.07,
+      "word": "vacation"
+    },
+    {
+      "start": 11.07,
+      "end": 11.71,
+      "word": "I"
+    },
+    {
+      "start": 11.71,
+      "end": 12.03,
+      "word": "was"
+    },
+    {
+      "start": 12.03,
+      "end": 12.91,
+      "word": "lucky"
+    },
+    {
+      "start": 12.91,
+      "end": 13.17,
+      "word": "enough"
+    },
+    {
+      "start": 13.17,
+      "end": 13.37,
+      "word": "to"
+    },
+    {
+      "start": 13.37,
+      "end": 13.57,
+      "word": "get"
+    },
+    {
+      "start": 13.57,
+      "end": 14.41,
+      "word": "I"
+    },
+    {
+      "start": 14.41,
+      "end": 14.83,
+      "word": "guess"
+    },
+    {
+      "start": 14.83,
+      "end": 14.95,
+      "word": "I"
+    },
+    {
+      "start": 14.95,
+      "end": 15.07,
+      "word": "kind"
+    },
+    {
+      "start": 15.07,
+      "end": 15.21,
+      "word": "of"
+    },
+    {
+      "start": 15.21,
+      "end": 15.37,
+      "word": "may"
+    },
+    {
+      "start": 15.37,
+      "end": 15.59,
+      "word": "push"
+    },
+    {
+      "start": 15.59,
+      "end": 15.89,
+      "word": "my"
+    },
+    {
+      "start": 15.89,
+      "end": 16.13,
+      "word": "way"
+    },
+    {
+      "start": 16.13,
+      "end": 16.27,
+      "word": "in"
+    },
+    {
+      "start": 16.27,
+      "end": 16.39,
+      "word": "there"
+    },
+    {
+      "start": 16.39,
+      "end": 16.79,
+      "word": "I"
+    },
+    {
+      "start": 16.79,
+      "end": 17.55,
+      "word": "apologize"
+    },
+    {
+      "start": 17.55,
+      "end": 17.93,
+      "word": "but"
+    },
+    {
+      "start": 17.93,
+      "end": 18.07,
+      "word": "I'm"
+    },
+    {
+      "start": 18.07,
+      "end": 18.25,
+      "word": "always"
+    },
+    {
+      "start": 18.25,
+      "end": 18.43,
+      "word": "so"
+    },
+    {
+      "start": 18.43,
+      "end": 18.77,
+      "word": "excited"
+    },
+    {
+      "start": 18.77,
+      "end": 19.01,
+      "word": "when"
+    },
+    {
+      "start": 19.01,
+      "end": 19.13,
+      "word": "I"
+    },
+    {
+      "start": 19.13,
+      "end": 19.33,
+      "word": "get"
+    },
+    {
+      "start": 19.33,
+      "end": 19.67,
+      "word": "to"
+    },
+    {
+      "start": 19.67,
+      "end": 20.13,
+      "word": "interview"
+    },
+    {
+      "start": 20.13,
+      "end": 20.59,
+      "word": "interesting"
+    },
+    {
+      "start": 20.59,
+      "end": 21.09,
+      "word": "people"
+    },
+    {
+      "start": 21.09,
+      "end": 21.51,
+      "word": "doing"
+    },
+    {
+      "start": 21.51,
+      "end": 21.83,
+      "word": "interesting"
+    },
+    {
+      "start": 21.83,
+      "end": 22.57,
+      "word": "things"
+    },
+    {
+      "start": 22.57,
+      "end": 22.79,
+      "word": "so"
+    },
+    {
+      "start": 22.79,
+      "end": 22.95,
+      "word": "this"
+    },
+    {
+      "start": 22.95,
+      "end": 23.11,
+      "word": "is"
+    },
+    {
+      "start": 23.11,
+      "end": 23.43,
+      "word": "Kyle"
+    },
+    {
+      "start": 23.43,
+      "end": 24.33,
+      "word": "a"
+    },
+    {
+      "start": 24.33,
+      "end": 24.87,
+      "word": "new"
+    },
+    {
+      "start": 24.87,
+      "end": 25.13,
+      "word": "friend"
+    },
+    {
+      "start": 25.13,
+      "end": 25.25,
+      "word": "of"
+    },
+    {
+      "start": 25.25,
+      "end": 25.43,
+      "word": "mine"
+    },
+    {
+      "start": 25.43,
+      "end": 25.83,
+      "word": "actually"
+    },
+    {
+      "start": 25.83,
+      "end": 26.03,
+      "word": "he"
+    },
+    {
+      "start": 26.03,
+      "end": 26.27,
+      "word": "happened"
+    },
+    {
+      "start": 26.27,
+      "end": 26.43,
+      "word": "to"
+    },
+    {
+      "start": 26.43,
+      "end": 26.71,
+      "word": "stay"
+    },
+    {
+      "start": 26.71,
+      "end": 27.05,
+      "word": "with"
+    },
+    {
+      "start": 27.05,
+      "end": 27.67,
+      "word": "my"
+    },
+    {
+      "start": 27.67,
+      "end": 28.21,
+      "word": "mom"
+    },
+    {
+      "start": 28.21,
+      "end": 28.71,
+      "word": "for"
+    },
+    {
+      "start": 28.71,
+      "end": 29.15,
+      "word": "quite"
+    },
+    {
+      "start": 29.15,
+      "end": 29.33,
+      "word": "a"
+    },
+    {
+      "start": 29.33,
+      "end": 29.49,
+      "word": "while"
+    }
+  ]
+}
