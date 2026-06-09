@@ -475,10 +475,9 @@ class StreamingSession:
         self._audio_dump_path = config.get("audio_dump_path", "")
 
     async def start(self):
-        # Optional TLS to translator: custom CA only if TLS_CERT_PATH is set,
-        # otherwise system CA store. Plain http works with no cert at all.
-        from config import build_ssl_context
-        ssl_ctx = build_ssl_context()
+        # Use system CA bundle (includes VPN CA) for HTTPS to translator
+        import ssl as _ssl
+        ssl_ctx = _ssl.create_default_context()  # loads system CAs including vpn-ca.pem
         conn = aiohttp.TCPConnector(ssl=ssl_ctx)
         self._http_session = aiohttp.ClientSession(connector=conn)
         self._last_audio_time = time.monotonic()

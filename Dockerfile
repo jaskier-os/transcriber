@@ -12,8 +12,6 @@ RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/wh
 
 COPY . .
 
-RUN chmod +x fetch_models.sh && ./fetch_models.sh
-
 EXPOSE 10003
 
 HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \

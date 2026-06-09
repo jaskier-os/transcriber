@@ -9,6 +9,8 @@ Protocol (same as /ws/stream):
 import asyncio
 import json
 import logging
+import ssl
+import os
 
 import websockets
 
@@ -41,10 +43,9 @@ class OrchestratorBridge:
                 pass
 
     def _build_ssl_context(self):
-        """Build the outbound TLS context. Certificates/VPN are optional;
-        falls back to the system CA store when no custom cert is configured."""
-        from config import build_ssl_context
-        return build_ssl_context()
+        """Use system CA store (VPN CA is installed system-wide)."""
+        ctx = ssl.create_default_context()
+        return ctx
 
     async def _run_loop(self):
         while not self._stop:
