@@ -1,5 +1,7 @@
 # transcriber
 
+> **Docs & wiki:** [github.com/jaskier-os/docs/wiki](https://github.com/jaskier-os/docs/wiki)
+
 A FastAPI speech-to-text service built on faster-whisper. `POST /transcribe`
 handles one-shot WAV/PCM clips; `WS /ws/stream` does low-latency streaming
 transcription (and optional inline translation) using Silero VAD for speech
